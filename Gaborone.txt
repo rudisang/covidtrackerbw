@@ -13,20 +13,24 @@ Ntshe clinic
 -22.3913363,25.695929
 
 Ghanzi
-ghanzi hospis
-
+ghanzi hospice
+-22.4190298,21.5363381
 
 Lobatse
 peleng east clinic
+-24.996784,25.4781655
 
 Palapye
 Extension 11 clinic
+-22.5593947,27.1036604
 
 South east
 magope clinic
 
 Charles Hill
 Mamunu border clinic
+-22.2800494,20.0241662
 
 Okavango
 Gumare primary hostpital
+-22.1613465,22.0716821
