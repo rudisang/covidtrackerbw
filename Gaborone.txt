@@ -1,0 +1,32 @@
+Gaborone
+Sir ketumile masire practice hostpital
+
+Maun
+Matshwane clinic
+
+Kasane 
+Kasane hostpital
+-19.6867824,22.6621262
+
+Francistown
+Ntshe clinic
+-22.3913363,25.695929
+
+Ghanzi
+ghanzi hospis
+
+
+Lobatse
+peleng east clinic
+
+Palapye
+Extension 11 clinic
+
+South east
+magope clinic
+
+Charles Hill
+Mamunu border clinic
+
+Okavango
+Gumare primary hostpital
